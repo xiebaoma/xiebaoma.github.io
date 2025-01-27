@@ -4,8 +4,8 @@ SEOTitle: xbm blog
 header-img: img/home-bg.jpg
 email: baomaxie69@gmail.com
 description: "这里是 @xiebaoma 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+keyword: "细胞膜, xiebaoma, Xie_Baoma, 谢宝玛, 细胞膜的博客, 博客, 个人网站, 互联网,巴萨, 足球,巴塞罗那，旅行, 程序员"
+url: "https://xiebaoma.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 细胞膜666
-zhihu_username: huxpro
+weibo_username: Xie_Baoma
+#zhihu_username: huxpro
 github_username: xiebaoma
 twitter_username: xiebaoma
-#facebook_username:  huxpro
+facebook_username:  Baoma Xie
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
