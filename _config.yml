@@ -1,6 +1,6 @@
 # Site settings
 title: 细胞膜 Blog
-SEOTitle: 细胞膜的博客 | Hux Blog
+SEOTitle: xbm blog
 header-img: img/home-bg.jpg
 email: baomaxie69@gmail.com
 description: "这里是 @xiebaoma 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
+weibo_username: 细胞膜666
 zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+github_username: xiebaoma
+twitter_username: xiebaoma
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
