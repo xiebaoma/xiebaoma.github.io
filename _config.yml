@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username: Xie_Baoma
+#weibo_username: Xie_Baoma
 github_username: xiebaoma
 twitter_username: xiebaoma
-instagram_username: xie_baoma
+#instagram_username: xie_baoma
 #facebook_username:  Baoma Xie
 #linkedin_username:  firstname-lastname-idxxxx
 
