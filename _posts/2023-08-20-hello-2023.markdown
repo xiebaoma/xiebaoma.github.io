@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hello 2023"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2023-08-20 12:00:00
+author:     "细胞膜"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 大学
+---
+
+xiebaoma 的博客开通了
+
+开始了大学生活
