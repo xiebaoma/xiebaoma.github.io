@@ -48,6 +48,12 @@ tags:
 
 1. 克隆仓库并进入 `server/` 目录。
 
+   ```bash
+   git clone https://github.com/xiebaoma/Cloud-Disk-Demo.git
+   ```
+
+   
+
 2. 使用C++编译器编译服务端代码。
 
    ```bash
